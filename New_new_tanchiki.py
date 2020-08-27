@@ -3,6 +3,7 @@ import time
 import random
 from PIL import Image, ImageDraw
 
+#строчка с фатальными изменениями
 
 def tank(x, y): # Код отрисовки танка, взависимости от направления движения
     if direction == 'U':
